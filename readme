@@ -1,0 +1,21 @@
+Análise de Vendas de Produtos Farmacêuticos
+Introdução
+Este projeto realiza uma análise detalhada das vendas de produtos farmacêuticos, com o objetivo de identificar tendências de mercado, produtos mais vendidos e comportamentos de compra dos clientes. As informações obtidas podem ser utilizadas para melhorar estratégias de vendas, gestão de estoque e tomadas de decisão estratégicas.
+
+Objetivos do Projeto
+Identificar Tendências de Mercado: Analisar os padrões de vendas ao longo do tempo para identificar tendências de mercado, como sazonalidades ou mudanças na demanda.
+Produtos Mais Vendidos: Determinar quais produtos farmacêuticos são mais vendidos e quais categorias de produtos são mais populares.
+Comportamento de Compra dos Clientes: Analisar o comportamento de compra dos clientes, incluindo frequência de compras, preferências de produtos e variações por demografia.
+Conjunto de Dados
+O conjunto de dados utilizado neste projeto inclui registros de vendas de produtos farmacêuticos, contendo informações como data da venda, produto, categoria do produto, quantidade vendida, valor da venda, e dados demográficos dos clientes, como idade e localização.
+
+Metodologia
+Coleta de Dados: Importação e pré-processamento dos dados de vendas.
+Análise Exploratória de Dados (EDA): Visualização e análise dos dados para identificar padrões e outliers.
+Análise de Tendências de Mercado: Análise temporal das vendas para identificar tendências e sazonalidades.
+Análise de Produtos Mais Vendidos: Identificação dos produtos e categorias mais vendidos.
+Análise de Comportamento de Compra dos Clientes: Análise dos dados demográficos e comportamentais dos clientes para entender suas preferências e padrões de compra.
+Relatório
+Resumo Estatístico: Estatísticas descritivas das vendas e dos dados demográficos.
+Visualizações Gráficas: Gráficos de linha, gráficos de barras e mapas de calor para ilustrar as tendências de vendas, produtos mais vendidos e comportamento dos clientes.
+Insights: Resumo dos principais insights obtidos a partir da análise, incluindo recomendações para otimização de estratégias de vendas e marketing.
